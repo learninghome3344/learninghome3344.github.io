@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      leetcode backtrack
+title:      leetcode binary_search
 subtitle:   
 date:       2022-02-20
 author:     FishRedLeaf

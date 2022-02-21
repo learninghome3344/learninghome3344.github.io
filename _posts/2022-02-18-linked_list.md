@@ -35,7 +35,7 @@ class ListNode:
  
 
  **示例 1：** 
-<img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2021/01/02/addtwonumber1.jpg" style="width: 483px; height: 342px;" />
+<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzlapjg569j20df09i74g.jpg" style="width: 483px; height: 342px;" />
 ```
 
 输入：l1 = [2,4,3], l2 = [5,6,4]

@@ -927,7 +927,7 @@ struct Node {
 
  **示例：** 
 
-<img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/02/15/117_sample.png" style="height: 218px; width: 640px;" />
+<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhbvyg0pj20te0a1dgg.jpg" style="height: 218px; width: 640px;" />
 
 ```
 
@@ -971,7 +971,7 @@ struct Node {
 
  **示例 1：** 
 
-<img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/01/09/e1.png" style="height: 142px; width: 700px;" />
+<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhcj44crj21gs0aq400.jpg" style="height: 142px; width: 700px;" />
 
 ```
 
@@ -981,7 +981,7 @@ struct Node {
 ```
  **示例 2：** 
 
-<img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/01/09/e2.png" style="height: 114px; width: 700px;" />
+<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhcm3temj21ae07kt95.jpg" style="height: 114px; width: 700px;" />
 
 ```
 
@@ -991,7 +991,7 @@ struct Node {
 ```
  **示例 3：** 
 
- **<img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/01/09/e3.png" style="height: 122px; width: 700px;" />** 
+ **<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhcprlxrj21gi096my0.jpg" style="height: 122px; width: 700px;" />** 
 
 ```
 
@@ -1292,7 +1292,8 @@ lRUCache.get(4);    // 返回 4
 
 图示两个链表在节点 `c1` 开始相交 **：** 
 
-<a href="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/14/160_statement.png" target="_blank"><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/14/160_statement.png" style="height: 130px; width: 400px;" /></a>
+<a href="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/14/160_statement.png" target="_blank"><img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhdzmcmpj20km06pglu.jpg" style="height: 130px; width: 400px;" /></a>
+
 
 题目数据 **保证** 整个链式结构中不存在环。
 
@@ -1338,7 +1339,7 @@ lRUCache.get(4);    // 返回 4
 ```
  **示例 3：** 
 
-<a href="https://assets.leetcode.com/uploads/2018/12/13/160_example_3.png" target="_blank"><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/14/160_example_3.png" style="height: 126px; width: 200px;" /></a>
+<a href="https://assets.leetcode.com/uploads/2018/12/13/160_example_3.png" target="_blank"><img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmheyp16jj20am06pmx6.jpg" style="height: 126px; width: 200px;" /></a>
 
 ```
 
@@ -2631,8 +2632,7 @@ skiplist.search(1);   // 返回 false，1 已被擦除
 
  **示例 1：** 
 
-<img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/12/15/graph-1.png" style="height: 108px; width: 426px;">
-
+<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmheyp16jj20am06pmx6.jpg" style="height: 126px; width: 200px;" />
 ```
 输入：head = [1,0,1]
 输出：5
@@ -2696,7 +2696,7 @@ skiplist.search(1);   // 返回 false，1 已被擦除
 
  **示例 1：** 
 
- **<img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/02/29/sample_1_1720.png" style="height: 280px; width: 220px;">** 
+ **<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhhm5mrwj208e09gq2y.jpg" style="height: 280px; width: 220px;">** 
 
 ```
 输入：head = [4,2,8], root = [1,4,4,null,2,2,null,1,null,6,8,null,null,null,null,1,3]
@@ -2706,7 +2706,7 @@ skiplist.search(1);   // 返回 false，1 已被擦除
 ```
  **示例 2：** 
 
- **<img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/02/29/sample_2_1720.png" style="height: 280px; width: 220px;">** 
+ **<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhhnvwh5j208809ct8q.jpg" style="height: 280px; width: 220px;">** 
 
 ```
 输入：head = [1,4,2,6], root = [1,4,4,null,2,2,null,1,null,6,8,null,null,null,null,1,3]
@@ -2826,14 +2826,14 @@ browserHistory.back(7);                   // 你原本在浏览 "google.com"， 
 请你将 `list1` 中下标从 `a` 到 `b` 的全部节点都删除，并将 `list2` 接在被删除节点的位置。
 
 下图中蓝色边和节点展示了操作后的结果：
-<img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/11/28/fig1.png" style="height: 130px; width: 504px;" />
+<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhik692wj20l005faae.jpg" style="height: 130px; width: 504px;" />
 请你返回结果链表的头指针。
 
  
 
  **示例 1：** 
 
-<img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/11/28/merge_linked_list_ex1.png" style="width: 406px; height: 140px;" />
+<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhin3qrrj20gx05u0t1.jpg" style="width: 406px; height: 140px;" />
 
 ```
 
@@ -2843,7 +2843,7 @@ browserHistory.back(7);                   // 你原本在浏览 "google.com"， 
 
 ```
  **示例 2：** 
-<img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/11/28/merge_linked_list_ex2.png" style="width: 463px; height: 140px;" />
+<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhioz9nij20jb05u74r.jpg" style="width: 463px; height: 140px;" />
 ```
 
 输入：list1 = [0,1,2,3,4,5,6], a = 2, b = 5, list2 = [1000000,1000001,1000002,1000003,1000004]
@@ -2933,7 +2933,8 @@ q.popFront();     // 返回 -1 -> [] （队列为空）
  
 
  **示例 1：** 
-<img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2021/01/10/linked1.jpg" style="width: 722px; height: 202px;" />
+
+<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhk525nsj20k205mq37.jpg" style="width: 722px; height: 202px;" />
 ```
 
 输入：head = [1,2,3,4,5], k = 2

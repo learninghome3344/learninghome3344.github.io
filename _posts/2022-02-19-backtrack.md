@@ -2673,9 +2673,7 @@ class Solution:
 
 ```
 
-输入：expression = "{{a,z},a{b,c},{ab,z}}"
-输出：["a","ab","ac","z"]
-解释：输出中 不应 出现重复的组合结果。
+
 
 ```
 

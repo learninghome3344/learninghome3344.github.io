@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      \[leetcode\] linked list 				# 标题 
+title:      leetcode linked list 				# 标题 
 subtitle:    #副标题
 date:       2022-02-18 				# 时间
 author:     FishRedLeaf 						# 作者

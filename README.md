@@ -18,7 +18,7 @@
   - mldl/machine_learning
   - mldl/deep_learning
   - mldl/图模型
-  - mldl/
+  - mldl/mldl库和框架
 - 搜广推
   - ctr模型
   - rerank

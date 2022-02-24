@@ -233,7 +233,19 @@
             t = $(this).text();
             c = $('<a href="'+i+'" rel="nofollow">'+t+'</a>');
             if (n == 'h2') {
-                c = $('<a href="' + i + '" rel="nofollow">' + '&nbsp' + t + '</a>');
+                c = $('<a href="' + i + '" rel="nofollow">' + '&nbsp;&nbsp' + t + '</a>');
+            }
+            if (n == 'h3') {
+                c = $('<a href="' + i + '" rel="nofollow">' + '&nbsp;&nbsp;&nbsp;&nbsp' + t + '</a>');
+            }
+            if (n == 'h4') {
+                c = $('<a href="' + i + '" rel="nofollow">' + '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp' + t + '</a>');
+            }
+            if (n == 'h5') {
+                c = $('<a href="' + i + '" rel="nofollow">' + '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp' + t + '</a>');
+            }
+            if (n == 'h6') {
+                c = $('<a href="' + i + '" rel="nofollow">' + '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp' + t + '</a>');
             }
             l = $('<li class="'+n+'_nav"></li>').append(c);
             $(selector).append(l);

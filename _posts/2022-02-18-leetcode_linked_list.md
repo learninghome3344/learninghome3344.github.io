@@ -38,7 +38,8 @@ class ListNode:
  
 
  **示例 1：**
-`<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzlapjg569j20df09i74g.jpg" style="width: 483px; height: 342px;" />`
+ 
+<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzlapjg569j20df09i74g.jpg" style="width: 483px; height: 342px;" />
 
 ```
 
@@ -133,7 +134,8 @@ class Solution:
 给你一个链表，删除链表的倒数第 `n` 个结点，并且返回链表的头结点。
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/remove_ex1.jpg" style="width: 542px; height: 222px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/remove_ex1.jpg" style="width: 542px; height: 222px;" />
 
 ```
 
@@ -207,7 +209,8 @@ class Solution:
  
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/merge_ex1.jpg" style="width: 662px; height: 302px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/merge_ex1.jpg" style="width: 662px; height: 302px;" />
 
 ```
 
@@ -410,7 +413,8 @@ class Solution:
 给你一个链表，两两交换其中相邻的节点，并返回交换后链表的头节点。你必须在不修改节点内部的值的情况下完成本题（即，只能进行节点交换）。
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/swap_ex1.jpg" style="width: 422px; height: 222px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/swap_ex1.jpg" style="width: 422px; height: 222px;" />
 
 ```
 
@@ -484,7 +488,8 @@ class Solution:
 - **你不能只是单纯的改变节点内部的值** ，而是需要实际进行节点交换。
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/reverse_ex1.jpg" style="width: 542px; height: 222px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/reverse_ex1.jpg" style="width: 542px; height: 222px;" />
 
 ```
 
@@ -494,7 +499,8 @@ class Solution:
 ```
 
  **示例 2：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/reverse_ex2.jpg" style="width: 542px; height: 222px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/reverse_ex2.jpg" style="width: 542px; height: 222px;" />
 
 ```
 
@@ -580,7 +586,8 @@ class Solution:
  
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2020/11/13/rotate1.jpg" style="width: 600px; height: 254px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2020/11/13/rotate1.jpg" style="width: 600px; height: 254px;" />
 
 ```
 
@@ -590,7 +597,8 @@ class Solution:
 ```
 
  **示例 2：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2020/11/13/roate2.jpg" style="width: 472px; height: 542px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2020/11/13/roate2.jpg" style="width: 472px; height: 542px;" />
 
 ```
 
@@ -623,7 +631,8 @@ class Solution:
 给定一个已排序的链表的头 `head` ， *删除原始链表中所有重复数字的节点，只留下不同的数字* 。返回 *已排序的链表* 。
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2021/01/04/linkedlist1.jpg" style="height: 142px; width: 500px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/01/04/linkedlist1.jpg" style="height: 142px; width: 500px;" />
 
 ```
 
@@ -633,7 +642,8 @@ class Solution:
 ```
 
  **示例 2：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2021/01/04/linkedlist2.jpg" style="height: 164px; width: 400px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/01/04/linkedlist2.jpg" style="height: 164px; width: 400px;" />
 
 ```
 
@@ -664,7 +674,8 @@ class Solution:
 给定一个已排序的链表的头 `<meta charset="UTF-8" />` `head` ， *删除所有重复的元素，使每个元素只出现一次* 。返回 *已排序的链表* 。
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2021/01/04/list1.jpg" style="height: 160px; width: 200px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/01/04/list1.jpg" style="height: 160px; width: 200px;" />
 
 ```
 
@@ -674,7 +685,8 @@ class Solution:
 ```
 
  **示例 2：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2021/01/04/list2.jpg" style="height: 123px; width: 300px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/01/04/list2.jpg" style="height: 123px; width: 300px;" />
 
 ```
 
@@ -709,7 +721,8 @@ class Solution:
  
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2021/01/04/partition.jpg" style="width: 662px; height: 222px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/01/04/partition.jpg" style="width: 662px; height: 222px;" />
 
 ```
 
@@ -749,7 +762,8 @@ class Solution:
 给你单链表的头指针 `head` 和两个整数  `left` 和 `right` ，其中  `left <= right` 。请你反转从位置 `left` 到位置 `right` 的链表节点，返回 **反转后的链表** 。
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/rev2ex2.jpg" style="width: 542px; height: 222px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/rev2ex2.jpg" style="width: 542px; height: 222px;" />
 
 ```
 
@@ -827,7 +841,8 @@ class Solution:
 - 展开后的单链表应该与二叉树 `<a href="https://baike.baidu.com/item/%E5%85%88%E5%BA%8F%E9%81%8D%E5%8E%86/6442839?fr=aladdin" target="_blank">` **先序遍历** `</a>` 顺序相同。
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2021/01/14/flaten.jpg" style="width: 500px; height: 226px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/01/14/flaten.jpg" style="width: 500px; height: 226px;" />
 
 ```
 
@@ -1026,7 +1041,7 @@ struct Node {
 
  **示例 3：**
 
- **`<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhcprlxrj21gi096my0.jpg" style="height: 122px; width: 700px;" />`**
+ <img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhcprlxrj21gi096my0.jpg" style="height: 122px; width: 700px;" />
 
 ```
 
@@ -1280,7 +1295,8 @@ lRUCache.get(4);    // 返回 4
 给你链表的头结点 `head` ，请将其按 **升序** 排列并返回 **排序后的链表** 。
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2020/09/14/sort_list_1.jpg" style="width: 450px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2020/09/14/sort_list_1.jpg" style="width: 450px;" />
 
 ```
 
@@ -1290,7 +1306,8 @@ lRUCache.get(4);    // 返回 4
 ```
 
  **示例 2：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2020/09/14/sort_list_2.jpg" style="width: 550px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2020/09/14/sort_list_2.jpg" style="width: 550px;" />
 
 ```
 
@@ -1420,7 +1437,8 @@ lRUCache.get(4);    // 返回 4
 给你一个链表的头节点 `head` 和一个整数 `val` ，请你删除链表中所有满足 `Node.val == val` 的节点，并返回 **新的头节点** 。
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2021/03/06/removelinked-list.jpg" style="width: 500px; height: 142px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/06/removelinked-list.jpg" style="width: 500px; height: 142px;" />
 
 ```
 
@@ -1469,7 +1487,8 @@ lRUCache.get(4);    // 返回 4
 给你单链表的头节点 `head` ，请你反转链表，并返回反转后的链表。
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/rev1ex1.jpg" style="width: 542px; height: 222px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/rev1ex1.jpg" style="width: 542px; height: 222px;" />
 
 ```
 
@@ -1479,7 +1498,8 @@ lRUCache.get(4);    // 返回 4
 ```
 
  **示例 2：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/rev1ex2.jpg" style="width: 182px; height: 222px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/rev1ex2.jpg" style="width: 182px; height: 222px;" />
 
 ```
 
@@ -1520,7 +1540,8 @@ lRUCache.get(4);    // 返回 4
 给你一个单链表的头节点 `head` ，请你判断该链表是否为回文链表。如果是，返回 `true` ；否则，返回 `false` 。
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2021/03/03/pal1linked-list.jpg" style="width: 422px; height: 62px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/03/pal1linked-list.jpg" style="width: 422px; height: 62px;" />
 
 ```
 
@@ -1530,7 +1551,8 @@ lRUCache.get(4);    // 返回 4
 ```
 
  **示例 2：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2021/03/03/pal2linked-list.jpg" style="width: 182px; height: 62px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/03/pal2linked-list.jpg" style="width: 182px; height: 62px;" />
 
 ```
 
@@ -1564,7 +1586,8 @@ lRUCache.get(4);    // 返回 4
 题目数据保证需要删除的节点 **不是末尾节点** 。
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2020/09/01/node1.jpg" style="width: 450px; height: 322px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2020/09/01/node1.jpg" style="width: 450px; height: 322px;" />
 
 ```
 
@@ -1575,7 +1598,8 @@ lRUCache.get(4);    // 返回 4
 ```
 
  **示例 2：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2020/09/01/node2.jpg" style="width: 450px; height: 354px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2020/09/01/node2.jpg" style="width: 450px; height: 354px;" />
 
 ```
 
@@ -1763,7 +1787,8 @@ twitter.getNewsFeed(1);  // 用户 1 获取推文应当返回一个列表，其�
 - `int getRandom()` 从链表中随机选择一个节点并返回该节点的值。链表中所有节点被选中的概率相等。
 
  **示例：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2021/03/16/getrand-linked-list.jpg" style="width: 302px; height: 62px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/16/getrand-linked-list.jpg" style="width: 302px; height: 62px;" />
 
 ```
 
@@ -2374,7 +2399,8 @@ linkedList.get(1);            //返回3
 返回一个由上述 `k` 部分组成的数组。
 
  **示例 1：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2021/06/13/split1-lc.jpg" style="width: 400px; height: 134px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/06/13/split1-lc.jpg" style="width: 400px; height: 134px;" />
 
 ```
 
@@ -2387,7 +2413,8 @@ linkedList.get(1);            //返回3
 ```
 
  **示例 2：**
-`<img alt="" src="https://assets.leetcode.com/uploads/2021/06/13/split2-lc.jpg" style="width: 600px; height: 60px;" />`
+ 
+<img alt="" src="https://assets.leetcode.com/uploads/2021/06/13/split2-lc.jpg" style="width: 600px; height: 60px;" />
 
 ```
 
@@ -2691,6 +2718,7 @@ skiplist.search(1);   // 返回 false，1 已被擦除
  **示例 1：**
 
 <img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmheyp16jj20am06pmx6.jpg" style="height: 126px; width: 200px;" />
+
 ```
 输入：head = [1,0,1]
 输出：5
@@ -2759,7 +2787,7 @@ skiplist.search(1);   // 返回 false，1 已被擦除
 
  **示例 1：**
 
- **`<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhhm5mrwj208e09gq2y.jpg" style="height: 280px; width: 220px;">`**
+ <img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhhm5mrwj208e09gq2y.jpg" style="height: 280px; width: 220px;">
 
 ```
 输入：head = [4,2,8], root = [1,4,4,null,2,2,null,1,null,6,8,null,null,null,null,1,3]
@@ -2770,7 +2798,7 @@ skiplist.search(1);   // 返回 false，1 已被擦除
 
  **示例 2：**
 
- **`<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhhnvwh5j208809ct8q.jpg" style="height: 280px; width: 220px;">`**
+ <img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhhnvwh5j208809ct8q.jpg" style="height: 280px; width: 220px;">
 
 ```
 输入：head = [1,4,2,6], root = [1,4,4,null,2,2,null,1,null,6,8,null,null,null,null,1,3]
@@ -2891,7 +2919,9 @@ browserHistory.back(7);                   // 你原本在浏览 "google.com"， 
 请你将 `list1` 中下标从 `a` 到 `b` 的全部节点都删除，并将 `list2` 接在被删除节点的位置。
 
 下图中蓝色边和节点展示了操作后的结果：
-`<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhik692wj20l005faae.jpg" style="height: 130px; width: 504px;" />`
+
+<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhik692wj20l005faae.jpg" style="height: 130px; width: 504px;" />
+
 请你返回结果链表的头指针。
 
  **示例 1：**
@@ -2907,7 +2937,8 @@ browserHistory.back(7);                   // 你原本在浏览 "google.com"， 
 ```
 
  **示例 2：**
-`<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhioz9nij20jb05u74r.jpg" style="width: 463px; height: 140px;" />`
+ 
+<img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhioz9nij20jb05u74r.jpg" style="width: 463px; height: 140px;" />
 
 ```
 
@@ -3002,6 +3033,7 @@ q.popFront();     // 返回 -1 -> [] （队列为空）
  **示例 1：**
 
 <img alt="" src="https://tva1.sinaimg.cn/large/e6c9d24egy1gzmhk525nsj20k205mq37.jpg" style="width: 722px; height: 202px;" />
+
 ```
 
 输入：head = [1,2,3,4,5], k = 2

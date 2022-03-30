@@ -2,9 +2,9 @@
 layout:     post
 title:      leetcode-题解
 subtitle:   
-date:       2022-03-27
+date:       2022-02-25
 author:     FishRedLeaf
-header-img: iu_img/my_iu_14.jpg
+header-img: iu_img/my_iu_11.jpg
 catalog: true
 tags:
     - DSA与刷题/leetcode
@@ -47,13 +47,16 @@ tags:
 *   `1 <= queries[i] <= 10<sup>9</sup>`
 *   `1 <= intLength <= 15`
 
-## 思路
-### 边界情况：intLength = 1 or 2
+**思路**：
+
+1.   边界情况：intLength = 1 or 2
+
 - `intLength = 1`所有符合条件的回文数为`[1, 2, 3, 4, 5, 6, 7, 8, 9]`
 - `intLength = 2`所有符合条件的回文数为`[11, 22, 33, 44, 55, 66, 77, 88, 99]`
 - 根据query索引从中选择即可
 
-### 考虑一个例子，`intLength = 1`如何生成`intLength = 3`
+2.   考虑一个例子，`intLength = 1`如何生成`intLength = 3`
+
 - 在`intLength = 1`的结果中加入0，得到基底`base = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]`
 - 遍历`i = 1~9`，在`base`中的每个数前后都加上i，例如`i=1`，得到`[101, 111, 121, 131, 141, 151, 161, 171, 181, 191]`
 - 因此可以归纳出一般情况
@@ -62,7 +65,8 @@ tags:
         - `2 * n + 1`生成不带前导0的回文数，个数为`9 * (10 ** n)`
     - 同理，`intLength = 2 * n`的回文数个数为`9 * (10 ** (n - 1))`
 
-### `intLength`分为奇数和偶数，考虑递推关系
+3.   `intLength`分为奇数和偶数，考虑递推关系
+
 - 奇数由1逐渐生成，偶数由2逐渐生成，带前导0的基底分别为
     - 奇数：`base = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]`
     - 偶数：`base = [00, 11, 22, 33, 44, 55, 66, 77, 88, 99]`
@@ -75,7 +79,8 @@ tags:
         - 假设所有长度为`2 * n - 1`符合条件的回文数为`lst`
         - 所有长度为`2 * n + 1`符合条件的回文数为，遍历`i = 1~9`，在`lst`中的每个数前后都加上i
 
-### 以`query = 20, intLength = 5`为例，分析解法
+4.   以`query = 20, intLength = 5`为例，分析解法
+
 - 问题1：`query = 20`时，从`intLength = 3`变为`intLength = 5`，前后加的数是多少
     - 假设所有长度为3的回文数为`a1, a2, ..., al`，根据前文的分析，易知`l = 100`
         - 那么`intLength = 5`的第`1 ~ 100`个数为 `int( str(1) + str(ai) + str(1) ), i = 1, ..., l`
@@ -107,7 +112,8 @@ tags:
 
 
 
-## 代码
+**代码**：
+
 ```python
 class Solution:
     def kthPalindrome(self, queries: List[int], intLength: int) -> List[int]:

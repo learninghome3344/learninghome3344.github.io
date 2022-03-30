@@ -2,9 +2,9 @@
 layout:     post
 title:      leetcode-grokking_code_interview
 subtitle:   
-date:       2022-03-24
+date:       2022-02-24
 author:     FishRedLeaf
-header-img: iu_img/my_iu_12.jpg
+header-img: iu_img/my_iu_8.jpg
 catalog: true
 tags:
     - DSA与刷题/leetcode

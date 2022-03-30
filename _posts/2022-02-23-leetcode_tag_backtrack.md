@@ -2,9 +2,9 @@
 layout:     post   				    # 使用的布局（不需要改）
 title:      leetcode-backtrack 				# 标题 
 subtitle:    #副标题
-date:       2022-02-19 				# 时间
+date:       2022-02-23 				# 时间
 author:     FishRedLeaf 						# 作者
-header-img: iu_img/my_iu_2.png 	#这篇文章标题背景图片
+header-img: iu_img/my_iu_5.png 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - DSA与刷题/leetcode
@@ -2087,8 +2087,8 @@ class Solution:
 - 你不能把数字串在一起
 	
 - 例如，如果 `cards =[1,2,1,2]` ，则表达式 `“12 + 12”` 无效。
-	
-	
+
+​	
 
 如果可以得到这样的表达式，其计算结果为 `24` ，则返回 `true` ，否则返回 `false` 。
 
@@ -3274,11 +3274,13 @@ iterator.hasNext(); // 返回 false
 
  **提示：** 
 - 
+
 	 `1 <= s.length <= 16` 
-	
+
 - 
+
 	 `s` 仅包含小写英文字母
-	
+
 
 **标签**
 `哈希表` `字符串` `回溯` 

@@ -2,9 +2,9 @@
 layout:     post   				    # 使用的布局（不需要改）
 title:      leetcode-linked list 				# 标题 
 subtitle:    #副标题
-date:       2022-02-18 				# 时间
+date:       2022-02-23 				# 时间
 author:     FishRedLeaf 						# 作者
-header-img: iu_img/my_iu_1.jpg 	#这篇文章标题背景图片
+header-img: iu_img/my_iu_7.png 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - DSA与刷题/leetcode
